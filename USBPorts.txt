@@ -1,0 +1,18 @@
+USB 2.0
+HS02 Front
+HS03
+HS04
+HS05
+HS06 TypeC+SW
+HS07
+HS08
+HS09
+HS10
+HS13 Aura LED Controller Build-In (Recommand removal)
+
+USB 3.0
+SS02 Front
+SS03
+SS04
+SS05
+SS06 TypeC+SW
