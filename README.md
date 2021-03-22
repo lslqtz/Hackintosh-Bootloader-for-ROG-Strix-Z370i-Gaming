@@ -1,4 +1,5 @@
 # Hackintosh-Bootloader-for-ROG-Strix-Z370i-Gaming
+Ref: [ROG-STRIX-Z370i-Hackintosh by WenSong-L](https://github.com/WenSong-L/ROG-STRIX-Z370i-Hackintosh)  
 Default settings: iMac19,2, No GUI, No Picker, HiDPI (2x), Power Nap On  
 macOS Version: Big Sur 11.3 (Beta, 20E5196f)  
 | Hardware | Model |
