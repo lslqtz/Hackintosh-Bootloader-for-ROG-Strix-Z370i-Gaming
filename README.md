@@ -23,9 +23,9 @@ macOS Version: Big Sur 11.3 (Beta, 20E5196f)
 | Memory Remap | Enabled |
 | iGPU Multi-Monitor | Enabled |
 | DVMT Pre-Allocated | 256M |
-| ErP Ready | Disabled |
+| ErP Ready | Enabled (S4+S5) |
 | Intel LAN Controller | Enabled |
-| Power On By PCI-e/PCI | Enabled |
+| Power On By PCI-e/PCI | Disabled |
 | Legacy USB Support | Disabled |
 | USB Keyboard and Mouse Simulator | Disabled |
 | Fast Boot | Disabled |
