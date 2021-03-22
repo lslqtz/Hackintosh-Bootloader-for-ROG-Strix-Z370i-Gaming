@@ -7,7 +7,7 @@ macOS Version: Big Sur 11.3 (Beta, 20E5196f)
 | CPU | i3-8100 (XCPM by SSDT-XCPM) |
 | GPU | Intel UHD Graphics 630 (3 DisplayPort connectors, ig-platform-id: 0x3e9b0007) |
 | SSD | Samsung SM961 MZVPW256HEGL (M.2 in use) |
-| Memory | DDR4 3600MHz 16GB+16GB (Running at 3600MHz) |
+| Memory | Corsair CM4X16GD3600C18K2D (DDR4 3600MHz 16GB+16GB, Running at 3600MHz) |
 | Soundcard | Onboard Realtek ALC1220 (alc-layout-id: 3) |
 | Motherboard | ASUS ROG Strix Z370i Gaming |
 | Wi-Fi Card | Apple BCM94360CS2 (2 antennas, Bluetooth 4.0, 802.11a/b/g/n/ac, Simultaneous dual band (2.4GHz & 5GHz), HT80 with 2x2 MIMO, used by MacBook Air (Mid 2013-2017)) |
