@@ -35,4 +35,4 @@ macOS Version: Big Sur 11.3 (Beta, 20E5196f)
 
 ## Not Work
 ### OpenCore
-No Problem!
+DRM doesn't work
