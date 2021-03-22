@@ -10,6 +10,7 @@ macOS Version: Big Sur 11.3 (Beta, 20E5196f)
 | Soundcard | Onboard Realtek ALC1220 (alc-layout-id: 3) |
 | Motherboard | ASUS ROG Strix Z370i Gaming |
 | Wi-Fi Card | Apple BCM94360CS2 (2 antennas, Bluetooth 4.0, 802.11a/b/g/n/ac, Simultaneous dual band (2.4GHz & 5GHz), HT80 with 2x2 MIMO, used by MacBook Air (Mid 2013-2017)) |
+| Computer Case | MetalFish S3 |
 
 | BIOS Setting | Value |
 | --- | --- |
